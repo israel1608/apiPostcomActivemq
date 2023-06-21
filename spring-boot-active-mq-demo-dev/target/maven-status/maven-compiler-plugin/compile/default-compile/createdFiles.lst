@@ -1,0 +1,5 @@
+com\bridgingcode\springbootactivemqdemo\consumer\component\MessageConsumer.class
+com\bridgingcode\springbootactivemqdemo\model\SystemMessage.class
+com\bridgingcode\springbootactivemqdemo\config\JmsConfig.class
+com\bridgingcode\springbootactivemqdemo\publisher\controller\PublishController.class
+com\bridgingcode\springbootactivemqdemo\SpringBootActiveMqDemoApplication.class
